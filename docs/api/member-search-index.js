@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"edu.cnm.deepdive","c":"Cube","l":"isPerfectCube(long)"}]
