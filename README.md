@@ -6,7 +6,7 @@
 
 ## Basic task
 
-Perfect cubes are positive integers which are the result of some integer raised to the 3<sup>rd</sup> power. For example, 1 = 1<sup>3</sup>, 8 = 2<sup>3</sup>, 27 = 3<sup>3</sup>, 64 = 4<sup>3</sup>, etc. Thus, 1, 8, 27, 64, &hellip; are perfect cubes.
+Perfect cubes are integers which are the result of some integer raised to the 3<sup>rd</sup> power. For example, 1 = 1<sup>3</sup>, 8 = 2<sup>3</sup>, 27 = 3<sup>3</sup>, 64 = 4<sup>3</sup>, etc. Thus, 1, 8, 27, 64, &hellip; are perfect cubes.
 
 Your task is to complete the implementation of a method that takes a `long` input parameter, and returns the `boolean` value `true` if the value of the parameter is a perfect cube, and `false` otherwise.
 
