@@ -24,7 +24,7 @@ For the basic task, complete the implementation of this method, according to the
 
 * If `input` is a perfect cube, `isPerfectCube(input)` must return `true`; if `input` is not a perfect cube, it must return `false`.
 
-* Remember that a negative number has a negative cube root. Thus, `input` may be negative, and no exception should be thrown in that case.
+* Remember that a negative number has a negative cube root. Thus, `input` may be negative.
 
 ### Unit tests
 
@@ -45,7 +45,7 @@ In evaluating your implementation, we reserve the right to include additional te
  
 ### Hints
 
-* The `Cube.isPerfectCube` method to be completed is `static`. There is no need to create instances of `Square` (and arguably no benefit in doing so).  
+* The `Cube.isPerfectCube` method to be completed is `static`. There is no need to create instances of `Cube` (and arguably no benefit in doing so).  
 
 * You may find it useful to create one or more additional `static` methods as "helpers"; the problem can be solved without doing so, however.
 
