@@ -20,7 +20,10 @@ public class Cube {
    * @return flag indicating whether <code>input</code> is a perfect cube or not.
    */
   public static boolean isPerfectCube(long input) {
-    return false; // TODO Replace with implementation as described above and in README.
+    long value = 0;
+    long temp = Math.round(Math.cbrt(value));
+    boolean result = ((long) temp) == temp;
+    return temp * temp * temp == value; // TODO Replace with implementation as described above and in README.
   }
 
 }
